@@ -12,6 +12,4 @@ A modern, fully‑functional calculator built using Java Swing, featuring a clea
 - Delete (backspace)
 - calculation history
 
-/screenshots
-calculator.png
-history.png
+
